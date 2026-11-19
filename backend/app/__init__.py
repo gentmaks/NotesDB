@@ -1,0 +1,1 @@
+"""NotesDB backend application package."""
